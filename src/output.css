@@ -920,7 +920,7 @@ video {
 }
 
 .bg-about {
-  background-image: url('./assets/about/bg-about.png');
+  background-image: url('../assets/about/bg-about.png');
 }
 
 .bg-cover {

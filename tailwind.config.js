@@ -8,7 +8,7 @@ export default {
         },
         backgroundImage: {
           'tesla': "url('./src/assets/tesla-car.png')",
-          'about' : "url('./assets/about/bg-about.png')"
+          'about' : "url('../assets/about/bg-about.png')"
         },
         backgroundColor: theme =>({
         ...theme("colors"),
